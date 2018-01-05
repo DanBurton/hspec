@@ -74,7 +74,7 @@ test-suite spec
     , base ==4.*
     , call-stack
     , directory
-    , hspec
+    -- , hspec
     , hspec-core ==2.5.0
     , hspec-discover ==2.5.0
     , hspec-expectations ==0.8.2.*
